@@ -1,0 +1,11 @@
+.portfolio{
+    margin-top: 133px;
+}
+.portfolio__image{
+    height: 300px;
+    width: 400px;
+}
+.main__portfolio{
+    margin-left: 386px;
+    margin-bottom: 32px;
+}
